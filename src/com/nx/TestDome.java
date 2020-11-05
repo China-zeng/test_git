@@ -40,8 +40,7 @@ public class TestDome {
 	public IServiceApp initJaxWsBean(){
 		
 		// 接口地址
-		//String address = "http://127.0.0.1:8080/services/ServiceServer?wsdl";
-		String address = "http://119.23.125.176:330/services/ServiceServer?wsdl";
+		String address = "http://www.";
 
 		// 代理工厂
 		JaxWsProxyFactoryBean jaxWsProxyFactoryBean = new JaxWsProxyFactoryBean();
