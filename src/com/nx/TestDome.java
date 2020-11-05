@@ -23,7 +23,7 @@ public class TestDome {
 		
 		TestDome t = new TestDome();
 		
-		t.testWritePDF("GS-QYDJ-NZQY-LLYXX");
+		t.testWritePDF("GS-QYDJ-NZQY-LLYXX" );
 		
 		t.testWriteXmlSecToPDF("GS-QYDJ-NZQY-LLYXX", "ABC");
 		
