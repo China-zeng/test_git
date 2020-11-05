@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-frontend-jaxws-3.1.16.jar" sourcepath="F:/home/working/var/maven_repository/org/apache/cxf/cxf-rt-frontend-jaxws/3.1.16/cxf-rt-frontend-jaxws-3.1.16-sources.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-core-3.1.16.jar" sourcepath="F:/home/working/var/maven_repository/org/apache/cxf/cxf-core/3.1.16/cxf-core-3.1.16-sources.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-bindings-soap-3.1.16.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-bindings-xml-3.1.16.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-databinding-jaxb-3.1.16.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-frontend-simple-3.1.16.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-transports-http-3.1.16.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-transports-udp-3.1.15.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-wsdl-3.1.16.jar"/>
+	<classpathentry kind="lib" path="lib/fastjson-1.1.32.jar"/>
+	<classpathentry kind="lib" path="lib/neethi-3.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/woodstox-core-asl-4.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/wsdl4j-1.6.3.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-databinding-jaxb-3.1.16-sources.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-transports-udp-3.1.15-sources.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-ws-addr-3.1.16.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-ws-policy-3.1.16.jar"/>
+	<classpathentry kind="lib" path="lib/cxf-rt-wsdl-3.1.16-sources.jar"/>
+	<classpathentry kind="lib" path="lib/asm-5.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/xmlschema-core-2.2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
